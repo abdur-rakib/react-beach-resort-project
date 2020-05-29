@@ -18,7 +18,8 @@
 }
 /* globals */
 body {
-  /* padding-top: 66px; */
+  padding-top: 6px;
+  /* margin-bottom: 20px; */
   color: var(--mainBlack);
   background: var(--mainWhite);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
